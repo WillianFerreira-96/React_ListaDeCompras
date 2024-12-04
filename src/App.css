@@ -1,0 +1,11 @@
+#barra, Typography{
+  background-color: rgb(116, 185, 13);
+  color: black;
+}
+
+#titulo{
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+
